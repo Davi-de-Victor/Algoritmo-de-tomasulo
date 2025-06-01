@@ -1,5 +1,5 @@
 # Algoritmo-de-tomasulo
-ste é um simulador do algoritmo de Tomasulo implementado em C, desenvolvido como parte do trabalho de arquitetura de computadores.
+Este é um simulador do algoritmo de Tomasulo implementado em C, desenvolvido como parte do trabalho de arquitetura de computadores.
 
 ## Funcionalidades
 
