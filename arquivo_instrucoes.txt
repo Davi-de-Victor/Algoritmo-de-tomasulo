@@ -1,0 +1,6 @@
+
+ADD R1 R2 R3    
+MUL R4 R1 R5    
+DIV R8 R3 R2    
+ADD R9 R4 R6    
+SUB R10 R9 R8   
